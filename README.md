@@ -16,6 +16,4 @@ Esse projeto corresponde ao código apresentado durante a aula e contém alguns 
 - [# Error handling on Android - Jamie Lynch](https://www.google.com/url?q=https://www.bugsnag.com/blog/error-handling-on-android-part-1&sa=D&ust=1612039579498000&usg=AOvVaw1yhPD2odj7NeJpRHZzHcBx)
 - [Debug](https://developer.android.com/studio/debug?hl=pt-br)
 - [LayoutInspector](https://developer.android.com/studio/debug/layout-inspector)
-- os outros links complementares mencionados na aula estão listados como hiperlink no slide;
 
-## Sinta-se a vontade para clonar esse projeto e utilizá-lo como base para os exercícios ao longo da aula!
