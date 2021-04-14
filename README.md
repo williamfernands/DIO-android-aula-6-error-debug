@@ -1,4 +1,4 @@
-# DIO Desenvolvimento Android  - Aula 6 (Debug e Error)
+# Melhores práticas para debugging, tratamento de erros e exceções
 
 ## Projeto: Quebre esse app :boom:
 Esse projeto corresponde ao código apresentado durante a aula e contém alguns TODOs para te encorajar a criar coisas novas;
